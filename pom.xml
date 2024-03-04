@@ -13,6 +13,7 @@
         <module>ws-task</module>
         <module>ws-user</module>
         <module>renren-fast</module>
+        <module>renren-generator</module>
     </modules>
 
 
