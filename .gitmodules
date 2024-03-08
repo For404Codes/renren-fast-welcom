@@ -10,8 +10,8 @@
 [submodule "ws-gateway"]
 	path = ws-gateway
 	url = git@github.com:For404Codes/Welcome-freshman-gateway.git
-[submodule "ws-uesr"]
-	path = ws-uesr
+[submodule "ws-user"]
+	path = ws-user
 	url = git@github.com:For404Codes/Welcome-freshman-user.git
 [submodule "ws-advertisement"]
 	path = ws-advertisement
