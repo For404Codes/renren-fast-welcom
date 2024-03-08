@@ -1,0 +1,3 @@
+[submodule "ws-task"]
+	path = ws-task
+	url = git@github.com:For404Codes/Welcome-freshman-task.git
