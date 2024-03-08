@@ -4,3 +4,15 @@
 [submodule "ws-common"]
 	path = ws-common
 	url = git@github.com:For404Codes/Welcome-freshman-common.git
+[submodule "renren-fast"]
+	path = renren-fast
+	url = git@github.com:For404Codes/renren-fast-welcom.git
+[submodule "ws-gateway"]
+	path = ws-gateway
+	url = git@github.com:For404Codes/Welcome-freshman-gateway.git
+[submodule "ws-uesr"]
+	path = ws-uesr
+	url = git@github.com:For404Codes/Welcome-freshman-user.git
+[submodule "ws-advertisement"]
+	path = ws-advertisement
+	url = git@github.com:For404Codes/Welcome-freshman-advertisement.git
